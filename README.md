@@ -1,35 +1,51 @@
-# 👋 Olá eu sou o João Gabriel
+# 👋 Olá, eu sou o João Gabriel
 
-> Engenheiro de software
+> Desenvolvedor Back-end
 
-Desenvolvendo aplicações web, APIs e produtos digitais com foco em arquitetura, escalabilidade e experiência do usuário.
-Atualmente trabalho com soluções para ambientes de produção e desenvolvo projetos próprios.
+Desenvolvedor de software com experiência em aplicações web e APIs, atualmente focado em **desenvolvimento back-end com Java e Spring**.
 
-## Stack
+Gosto de entender como as coisas funcionam por trás da aplicação, estruturar APIs, modelar dados e transformar requisitos em código organizado e funcional. Atualmente estou aprofundando meus conhecimentos no ecossistema Java através de estudos e projetos próprios.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,nodejs,react,svelte,python,postgres,mysql,docker,git" />
-</p>
+## 🚀 Foco atual
 
-## Atualmente Explorando
+- ☕ Desenvolvimento back-end com **Java**
+- 🍃 Construção de APIs com **Spring Boot**
+- 🗄️ Modelagem e persistência de dados com **SQL, JPA e Hibernate**
+- 🔐 Autenticação e autorização com **Spring Security e JWT**
+- 🐳 Ambientes de desenvolvimento com **Docker**
+- 🧪 Boas práticas, testes e arquitetura de aplicações
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
+## 🛠️ Tecnologias
 
-## Projetos em Destaque
+### Back-end
+Java • Spring Boot • PHP • Laravel • Python
 
-### 🎧 Akiba - Plataforma de Conteúdo, Rádio e Entreterimento Otaku
-Portal de entretenimento voltado à conteúdo otaku e entreterimento, reunindo rádio online, notícias, enquetes, cobertura de eventos e conteúdo para a comunidade.
-🔗 https://akiba.com.br
-🐙 https://github.com/ojgabrielleal/akiba
+### Banco de Dados
+PostgreSQL • MySQL
 
-## Conecte-se
+### Front-end
+JavaScript • React • Svelte
 
-<a href="https://www.linkedin.com/in/ojgabrielleal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Ferramentas
+Docker • Git • GitHub • Postman
 
-<a href="https://twitter.com/ojgabrielleal">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+## 📚 Atualmente explorando
+
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+Aprofundando meus conhecimentos em **Java, Spring Boot e desenvolvimento de APIs**, com foco em construir aplicações back-end cada vez mais completas.
+
+## ⭐ Projeto em destaque
+
+### 🎧 Akiba — Plataforma de Conteúdo, Rádio e Entretenimento Otaku
+
+Portal de entretenimento voltado à comunidade otaku, reunindo **rádio online, notícias, enquetes, cobertura de eventos e conteúdo para a comunidade**.
+
+🔗 [Acessar projeto](https://akiba.com.br)  
+💻 [Ver repositório](https://github.com/ojgabrielleal/akiba)
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojgabrielleal)
