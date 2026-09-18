@@ -15,20 +15,6 @@ Gosto de entender como as coisas funcionam por trás da aplicação, estruturar 
 - 🐳 Ambientes de desenvolvimento com **Docker**
 - 🧪 Boas práticas, testes e arquitetura de aplicações
 
-## 🛠️ Tecnologias
-
-### Back-end
-Java • Spring Boot • PHP • Laravel • Python
-
-### Banco de Dados
-PostgreSQL • MySQL
-
-### Front-end
-JavaScript • React • Svelte
-
-### Ferramentas
-Docker • Git • GitHub • Postman
-
 ## 📚 Atualmente explorando
 
 ![Java](https://skillicons.dev/icons?i=java)
